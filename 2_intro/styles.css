@@ -1,0 +1,77 @@
+body {
+  background-color: #1e1f1e;
+  color: white;
+}
+
+/*backgorund-image*/
+
+.alinhada {
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.bi {
+  background-image: url(https://i.ibb.co/Jz6wJqQ/Screenshot-from-2024-12-27-14-14-46.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 520px;
+  padding: 20px;
+  text-shadow: 2px 2px 2px black;
+  border: 5px solid white;
+  margin-left: 20px;
+}
+
+.ad {
+  background-image: url(https://i.ibb.co/2jst20j/Screenshot-from-2024-12-27-14-40-57.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 73px;
+  padding: 20px;
+  text-shadow: 2px 2px 2px black;
+  border: 5px solid white;
+}
+
+.ot {
+  background-image: url(https://i.ibb.co/NKPcvbT/Screenshot-from-2024-12-27-17-16-24.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 160px;
+  padding: 20px;
+  text-shadow: 2px 2px 2px black;
+  border: 5px solid white;
+}
+
+.oo {
+  background-image: url(https://i.ibb.co/ZNvFbZc/Screenshot-from-2024-12-27-17-33-38.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 170px;
+  padding: 20px;
+  text-shadow: 2px 2px 2px black;
+  border: 5px solid white;
+}
+
+.bt {
+  background-image: url(https://i.ibb.co/cc1qcw9/Screenshot-from-2024-12-27-18-08-05.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px;
+  width: 170px;
+  text-shadow: 2px 2px 2px black;
+  border: 2px solid white;
+  margin: 10px 0px 0px 20px;
+
+  &:hover{
+    opacity: 0.75;
+  }
+}
+
+.anchor {
+  color: white;
+  text-decoration: none;
+}
+
+.anchor:visited {
+  color: white;
+  text-decoration: none;
+}
